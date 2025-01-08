@@ -11,7 +11,7 @@ This project is a Flask-based web application designed to help users discover ar
 - Visual highlighting of matching base and quote token addresses across different pairs for easy identification.
 
 
-![image](https://github.com/user-attachments/assets/b65158b7-e613-41ad-b52e-7a91d0689bcb)
+![image](https://github.com/user-attachments/assets/ddd975d6-6b0d-4049-87e2-e670713be36d)
 
 
 
